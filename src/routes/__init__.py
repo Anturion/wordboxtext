@@ -1,0 +1,1 @@
+from .register import registry_routes
